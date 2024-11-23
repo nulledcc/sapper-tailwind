@@ -11,7 +11,7 @@
     "build:tailwind": "cross-env NODE_ENV=production postcss static/tailwind.css -o static/index.css"
   },
   "dependencies": {
-    "compression": "^1.7.1",
+    "compression": "^1.7.5",
     "polka": "next",
     "sirv": "^1.0.0"
   },
